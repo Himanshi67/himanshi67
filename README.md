@@ -19,7 +19,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himanshi_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshi_90" height="30" width="40" /></a>
-<a href="https://dev.to/himanshi_verma" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original-wordmark.svg" width="40"/></a>
+<a href="https://dev.to/himanshi_verma" target="_blank">
+  <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devto/devto-original.svg" alt="dev.to" height="30" width="40" />
+</a>
+
 
 <a href="https://linkedin.com/in/himanshi2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi2021" height="30" width="40" /></a>
 <a href="https://instagram.com/himu_xe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himu_xe" height="30" width="40" /></a>
