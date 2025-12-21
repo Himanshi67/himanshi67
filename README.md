@@ -16,10 +16,10 @@
 - 📫 How to reach me **himanshiv8950@gmail.com**
 
 - ⚡ Fun fact **I am Funny**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/himanshi_90" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="himanshi_90" height="30" width="40" /></a>
+<a href="https://dev.to/himanshi_verma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dev.svg" alt="himanshi_verma" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/himanshi2021" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshi2021" height="30" width="40" /></a>
 <a href="https://instagram.com/himu_xe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="himu_xe" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/himanshiv8950" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="himanshiv8950" height="30" width="40" /></a>
